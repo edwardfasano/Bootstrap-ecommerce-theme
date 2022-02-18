@@ -14,17 +14,6 @@ This is a simple Bootstrap 2.x theme used for an eCommerce website. Check the de
 7. Categories List
 8. Product Page
 
-
-![alt text](http://vadimg.com/wp-content/uploads/2014/08/Screen-Shot-2014-08-08-at-10.38.52-AM.png "Home Page")
-
-
-
-Demo:
-
-http://vinceg.github.com/Bootstrap-ecommerce-theme
-
-<p>&copy; <a href='http://vadimg.com' target="_blank">Vadim Vincent Gabriel</a> <a href='https://twitter.com/gabrielva' target='_blank'>Follow @gabrielva</a> 2014</p>
-
 License
 ===============
 The MIT License (MIT)
